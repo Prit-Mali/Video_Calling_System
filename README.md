@@ -70,6 +70,3 @@ The system consists of:
 - Mobile app support  
 - Emergency alert notifications  
 
-```bash
-pip install flask
-python app.py
